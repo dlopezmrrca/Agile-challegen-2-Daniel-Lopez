@@ -6,7 +6,7 @@ url = 'https://data.winnipeg.ca/resource/d3jk-hb6j.json'
 uri = URI(url)
 response = Net::HTTP.get(uri)
 trees = JSON.parse(response) # Convert JSON data into Ruby data.
-# pp trees # pp stands for pretty print.
+# pp trees # pp stands for pretty print..
 
 ash_tree_count = 0
 

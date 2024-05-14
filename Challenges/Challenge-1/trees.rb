@@ -1,3 +1,7 @@
+# Daniel Lopez
+# Agile Full Stack
+# Challenge 1
+
 require 'net/http'
 require 'json'
 require 'pp'

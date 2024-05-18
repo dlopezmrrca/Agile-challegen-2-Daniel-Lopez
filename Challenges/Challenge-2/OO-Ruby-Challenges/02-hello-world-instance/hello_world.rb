@@ -1,3 +1,8 @@
+# Daniel Lopez
+# Agile Full Stack
+# Challenge 2
+
+
 class HelloWorld
   def initialize(name)
     @name = name

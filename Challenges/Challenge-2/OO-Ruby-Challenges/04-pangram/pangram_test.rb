@@ -11,7 +11,7 @@ class PangramTest < Minitest::Test
   end
 
   def test_pangram_with_only_lower_case
-    skip
+    # skip
     str = 'the quick brown fox jumps over the lazy dog'
     assert Pangram.is_pangram?(str)
   end

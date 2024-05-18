@@ -1,3 +1,7 @@
+# Daniel Lopez
+# Agile Full Stack
+# Challenge 2
+
 class HelloWorld
   def self.hello(name = 'World')
     "Hello, #{name}!"

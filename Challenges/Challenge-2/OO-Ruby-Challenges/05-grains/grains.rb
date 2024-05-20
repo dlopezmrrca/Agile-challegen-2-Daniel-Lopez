@@ -14,11 +14,11 @@ class Grains
   end
 end
 
-Grains.square(1)
-Grains.square(2)
-Grains.square(3)
-Grains.square(4)
-Grains.square(16)
-Grains.square(32)
-Grains.square(64)
-puts "Total of grains: #{Grains.total}"
+puts Grains.square(1)
+puts Grains.square(2)
+puts Grains.square(3)
+puts Grains.square(4)
+puts Grains.square(16)
+puts Grains.square(32)
+puts Grains.square(64)
+puts "Grand Total of grains: #{Grains.total}"
